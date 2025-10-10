@@ -14,5 +14,15 @@ print("O produto do dobro do primeiro com a metade do segundo é:",resultado)
 numero_1 = int(input("Digite o primeiro valor: "))
 
 triplo_num3 = numero_real * 3
+soma = numero_1 + triplo_num3
+
+print("a soma do primeiro com o terceiro é: ",soma)
+
+#Questão C
+
+resultado = numero_2 ** 3
+
+print("o segundo elevado ao cubo sera igual a: ",resultado)
+
 
 
