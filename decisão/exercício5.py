@@ -3,7 +3,7 @@ nm_1 = int(input("digite o valor da nota: "))
 nm_2 = int(input("digite o valor da nota: "))
 
 media = (nm_1 + nm_2) /  2
-
+print("a media do aluno",media)
 if media >= 7:
     print("o aluno está aprovado")
 
